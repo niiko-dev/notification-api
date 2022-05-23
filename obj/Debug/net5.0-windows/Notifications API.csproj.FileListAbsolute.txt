@@ -1,0 +1,18 @@
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\Notifications API.csproj.AssemblyReference.cache
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\Notifications_API.Screen.resources
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\Notifications API.csproj.GenerateResource.cache
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\Notifications API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\Notifications API.AssemblyInfoInputs.cache
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\Notifications API.AssemblyInfo.cs
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\Notifications API.csproj.CoreCompileInputs.cache
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\Notifications API.genruntimeconfig.cache
+C:\Users\awest\source\repos\Notifications API\Notifications API\bin\Debug\net5.0-windows\API.exe
+C:\Users\awest\source\repos\Notifications API\Notifications API\bin\Debug\net5.0-windows\API.deps.json
+C:\Users\awest\source\repos\Notifications API\Notifications API\bin\Debug\net5.0-windows\API.runtimeconfig.json
+C:\Users\awest\source\repos\Notifications API\Notifications API\bin\Debug\net5.0-windows\API.runtimeconfig.dev.json
+C:\Users\awest\source\repos\Notifications API\Notifications API\bin\Debug\net5.0-windows\API.dll
+C:\Users\awest\source\repos\Notifications API\Notifications API\bin\Debug\net5.0-windows\ref\API.dll
+C:\Users\awest\source\repos\Notifications API\Notifications API\bin\Debug\net5.0-windows\API.pdb
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\API.dll
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\ref\API.dll
+C:\Users\awest\source\repos\Notifications API\Notifications API\obj\Debug\net5.0-windows\API.pdb

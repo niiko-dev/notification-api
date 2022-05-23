@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBVy6X0yrGCMGXQ75bobQ89yGLVnTLWWjfwcnOxqyH1E+SziJMk8b3SM/gQHxtyhfVjNhnjJmDtCFR3/lALZyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\awest\\source\\repos\\Notifications API\\Notifications API\\Notifications API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\awest\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.15\\microsoft.netcore.app.runtime.win-x86.5.0.15.nupkg.sha512",
+    "C:\\Users\\awest\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.15\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.15.nupkg.sha512",
+    "C:\\Users\\awest\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.15\\microsoft.aspnetcore.app.runtime.win-x86.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
