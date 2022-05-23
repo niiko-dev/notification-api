@@ -1,7 +1,7 @@
 # Notification API
 
 ## Installation
-[Download](https://drive.google.com/file/d/1lI_geLPlZOXyE8zXzLJA1CX7UqprS_dD/view?usp=sharing) here and extract to the desired folder.
+[Download](https://drive.google.com/file/d/1lI_geLPlZOXyE8zXzLJA1CX7UqprS_dD/view?usp=sharing) here and extract to the desired folder, or just build the code yourself.
 
 ## Usage
 
